@@ -22,4 +22,4 @@ requires:
   Mojolicious: 3.20
 resources:
   repository: https://github.com/krimdomu/rex-endpoint-http
-version: v0.31.0
+version: v0.31.1
